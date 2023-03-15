@@ -1,4 +1,34 @@
 .flashy {
     color: red;
     font-style: italic;
+    font-weight: 40%;
+}
+#best {
+    text-decoration: wavy;
+    background-color: cadetblue;
+    text-align: center;
+}
+body {
+    background-color: rgb(238, 231, 129);
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+} 
+
+img {
+    float: right;
+}
+
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: aquamarine;
+}
+
+.column {
+    width: 300px;
+    float: left;
 }
